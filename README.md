@@ -6,9 +6,9 @@
 
 ### 功能
 
-#### 文件汇总面板
+#### 文件追踪面板
 
-文件追踪。这个功能主要是为了提醒自己重要文件，不需要的文件应该及时删除。这里不是文件仓库。
+文件追踪，只有先看到才能开展行动。这个功能主要是为了提醒自己重要的值得关注的文件，不需要的文件应该及时删除。这里不应该是一个仓库。
 
 - 文件添加
 - 文件删除
@@ -17,16 +17,16 @@
 - 文件存在性检测
 - 可以临时存储其他需要提醒的内容
 
-![](./figures/ui-01.png)
+![not exist](./figures/ui-01.png)
 
-![](./figures/ui-02.png)
+![not exist](./figures/ui-02.png)
 
 #### 文件内容检索面板
 
 - 检索文件内容
 - 根据选择文本行，进行处理
 
-![](./figures/ui-03.png)
+![not exist](./figures/ui-03.png)
 
 #### 文件内容处理面板
 
@@ -36,7 +36,7 @@
 - pdf文件和docx文件内容提取
 - 文件内容的格式化
 
-![](./figures/ui-04.png)
+![not exist](./figures/ui-04.png)
 
 #### 内容阅读(分析)面板
 
@@ -46,11 +46,11 @@
 - 词频统计等
 - 字体选择
 
-![](./figures/ui-05.png)
+![not exist](./figures/ui-05.png)
 
-![](./figures/ui-06.png)
+![not exist](./figures/ui-06.png)
 
-![](./figures/ui-07.png)
+![not exist](./figures/ui-07.png)
 
 ### 安装
 
@@ -62,6 +62,6 @@
 
 ### 赞助
 
-本应用使用了 `pysimplegui` 进行开发，但是我没有购买`pysimplegui`的商业许可证，故您需要自己注册授权码。
+本工具使用了 `pysimplegui` 进行开发，但是我没有购买`pysimplegui`的商业许可证，故您需要自己注册授权码。
 
-如果您感觉本应用对您有帮助，可以考虑赞助 :smile:
+如果您感觉本工具对您有帮助，可以考虑赞助 :smile:
